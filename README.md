@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Akira Enderle's Home Page
+Hello GitHub, I am a mathematician, philosopher, and computer-science hobbyist at Boise State University. My philosophy of Ratologism is an offshoot of Objectivism, the most influential work I've ever read in my life.
 
-You can use the [editor on GitHub](https://github.com/Ratologist/ratologist.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Rat-o-log-ist
+reason-euphony_marker-study-one_who_does
+A ratologist is 'one who studies reason'. The two main morphemes that form the stem come from the Latin root for 'reason' and the Greek root for 'reason' (which means 'study of' in this case).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### WHY PHILOSOPHY IS IMPORTANT
+Contrary to popular opinion, philosophy is the most important topic in our lives, as it is the basis of our knowledge. A tremendously underrated subject, it governs everything including but not limited to: our emotions, careers, religions, lifestyles, voting preferences, and even our internal subconscious thoughts whether we know it or not. The correct philosophy will allow you to live your life properly, while adopting a wrong or incomplete philosophy will cause destruction in your life, to the extent you adhere to it. Everyone needs a philosophy on life, and if you don't take the time to think about it, your subconscious will fill in the gaps for you. Unlike the rest of the animal kingdom, the human brain needs a philosophy in order to live, and just like a defense attorney; one will be provided if you don't provide your own. The beauty of an integrated, philosophic system that doesn't contradict itself, is it will yield correct answers applied to real life.
+Philosophy also makes us less susceptible to being manipulated. Today, there are tons of books, videos, and advice on how to persuade people and get others to listen to you, but there is very little advice on how to avoid being manipulated. There is persuasion all around us: commercials, advertisements, friends, acquaintances, politicians, cults, books, television, media, etc., so it is especially important that we know how to avoid it all when it is harmful. The best way to do this is to have a philosophy. A strong, robust philosophy would make us less vulnerable to being manipulated because we would have defined values and a strong sense of reason, which would strengthen our ability to see when something conflicts with our interests, is harmful, or is nonsensical.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ratologist/ratologist.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Hello World
+[hello-world](https://github.com/Ratologist/hello-world)
