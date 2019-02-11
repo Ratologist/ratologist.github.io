@@ -1,13 +1,13 @@
 ## Welcome to Akira Enderle's Home Page
-I am a mathematician, philosopher, and computer-science hobbyist at Boise State University. My philosophy of Ratologism is an offshoot of Objectivism, the most influential work I've ever read in my life.
+I am a sophomore mathematics major at Boise State University. My interests include mathematics, philosophy, and computer science. My philosophy of Ratologism is an offshoot of Objectivism, the most influential work I've ever read in my life.
 
 ### Hello World
-[hello-world](https://github.com/Ratologist/hello-world)
+[Hello World](https://github.com/Ratologist/hello-world)
 
 
 Rat-o-log-ist
 
-reason-euphony_marker-study-one_who_does
+reason - euphony_marker - study - one_who_does
 
 A ratologist is 'one who studies reason'. The two main morphemes that form the stem come from the Latin root for 'reason' and the Greek root for 'reason' (which means 'study of' in this case).
 
